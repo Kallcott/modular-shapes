@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "three": "^0.143.0"
+  },
+  "name": "modular-design",
+  "version": "1.0.0",
+  "main": "index.js",
+  "source": "index.html",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  },
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
